@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+      "chip.h": "c",
+      "bcp.h": "c",
+      "digital.h": "c",
+      "stdbool.h": "c",
+      "pantalla.h": "c",
+      "define.h": "c"
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "editor.formatOnSave": true,
+    "[c]": {
+      "editor.defaultFormatter": "xaver.clang-format",
+      "editor.wordBasedSuggestions": false,
+      "editor.suggest.insertMode": "replace",
+      "editor.semanticHighlighting.enabled": true
+    }
+}
