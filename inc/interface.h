@@ -22,7 +22,7 @@ SPDX-License-Identifier: MIT
 #ifndef INTERFACE_H
 #define INTERFACE_H
 
-#include "bcp.h"
+#include "bsp.h"
 #include "chip.h"
 #include "define.h"
 #include "digital.h"
